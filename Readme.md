@@ -35,12 +35,23 @@ Analizar los tiempos de entrega y detectar cómo influyen variables como el trá
 
 ---
 
-## KPIs analizados
-- Tiempo promedio de entrega.
-- Tiempo entre pedido y recogida.
-- Tiempo de entrega por tráfico, clima y ciudad.
-- Variación por tipo de vehículo.
+## KPIs del Dashboard
 
+### KPIs operativos
+- Tiempo promedio de preparación
+- Tiempo promedio de entrega
+- Tiempo total promedio por pedido
+- Calificación promedio de los pedidos
+
+### KPIs por condiciones externas
+- Tiempo por clima
+- Tiempo por tráfico
+- Tiempo por ciudad
+- Tiempo por tipo de vehículo
+
+### KPIs de actividad y demanda
+- Actividad por día de la semana
+- Pedidos por hora punta
 ---
 
 ## Herramientas utilizadas
